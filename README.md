@@ -1,4 +1,4 @@
-For more information about original ReadLater, please see below:
+This is a fork from napsternxg/ReadLater repository. For more information about original ReadLater, please see below:
 
 >ReadLater
 >
