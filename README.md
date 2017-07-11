@@ -1,3 +1,5 @@
+For more information about original ReadLater, please see below:
+
 >ReadLater
 >
 >[Add to chrome](https://chrome.google.com/webstore/detail/read-later/nplngmgdacdfncdkpdomipkehfnbinfa)
