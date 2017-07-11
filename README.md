@@ -20,8 +20,6 @@ This is a fork from napsternxg/ReadLater repository. For more information about 
 
 >ReadLater
 >
->[Add to chrome](https://chrome.google.com/webstore/detail/read-later/nplngmgdacdfncdkpdomipkehfnbinfa)
->
 >See source code at: https://github.com/napsternxg/ReadLater
 >
 >UI:
