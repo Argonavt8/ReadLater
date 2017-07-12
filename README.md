@@ -17,3 +17,5 @@ Installation Instructions for downloading from source:
  8. If it is working, yippiee..ki...yay, start adding links and reading more online =)
 
 This is a fork from napsternxg/ReadLater repository. For more information about original ReadLater, please see repository napsternxg/ReadLater.
+
+If you have some wishes, questions or issues send maill pleas (kolosok050@mail.ru) I will be glad to see your mails.
