@@ -4,7 +4,7 @@ ReadLater_MinimalistStyle this is a google chrome extension for saving links for
 
 UI:
 
-
+![UserInterface](https://raw.githubusercontent.com/Argonavt8/ReadLater_MinimalistStyle/master/Screenshot.jpg)
 
 Installation Instructions for downloading from source:
 1. Download the extension zip file from: https://github.com/downloads/napsternxg/ReadLater/ReadLater.zip
