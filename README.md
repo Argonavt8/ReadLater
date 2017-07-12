@@ -16,12 +16,4 @@ Installation Instructions for downloading from source:
  7. Click on it, to see if the popup is coming.
  8. If it is working, yippiee..ki...yay, start adding links and reading more online =)
 
-This is a fork from napsternxg/ReadLater repository. For more information about original ReadLater, please see below:
-
->ReadLater
->
->See source code at: https://github.com/napsternxg/ReadLater
->
->UI:
->
->![Version 2.0.1 Screenshot](http://napsternxg.github.io/ReadLater/images/Screenshot_2_0_1.JPG)
+This is a fork from napsternxg/ReadLater repository. For more information about original ReadLater, please see repository napsternxg/ReadLater.
